@@ -13,4 +13,6 @@ int main()
     //part2::task3();
     //part2::task4();
     //part2::task5();
+
+    part3::task1();
 }
